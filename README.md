@@ -60,7 +60,7 @@
 
 # Tutorial In RDP
 ```Bash
-* [In Here](https://youtu.be/IamDIs5gmVE)
+*[In Here](https://youtu.be/IamDIs5gmVE)
 -jangan lupa subrek
 
 ## For Termux
