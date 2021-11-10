@@ -56,12 +56,7 @@
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
 * [FFmpeg](https://www.gyan.dev/ffmpeg/builds/) (for sticker command)
-* [Libwebp](https://developers.google.com/speed/webp/download) (for sticker wm)
-
-# Tutorial In RDP
-```Bash
-*[In Here](https://youtu.be/IamDIs5gmVE)
--jangan lupa subrek
+* [Libwebp](https://developers.google.com/speed/webp/download) (for sticker)
 
 ## For Termux
 ```bash
@@ -98,3 +93,6 @@ cd HelTodBotV9
 npm install
 npm start
 ```
+
+## Tutorial In video
+*[in here](https://youtu.be/IamDIs5gmVE)
