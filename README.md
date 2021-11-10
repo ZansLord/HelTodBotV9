@@ -95,4 +95,4 @@ npm start
 ```
 
 ## Tutorial In video
-*[in here](https://youtu.be/IamDIs5gmVE)
+* [in here](https://youtu.be/IamDIs5gmVE)
