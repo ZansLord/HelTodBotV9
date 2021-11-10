@@ -58,9 +58,10 @@
 * [FFmpeg](https://www.gyan.dev/ffmpeg/builds/) (for sticker command)
 * [Libwebp](https://developers.google.com/speed/webp/download) (for sticker wm)
 
-## Tutorial In RDP
+# Tutorial In RDP
 ```Bash
 * [In Here](https://youtu.be/IamDIs5gmVE)
+-jangan lupa subrek
 
 ## For Termux
 ```bash
